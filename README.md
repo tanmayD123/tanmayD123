@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/tanmayD123/tanmayD123/blob/main/resources/gif2.gif" alt="animated" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 <h3 align="center">I'm a Engg Grad, Data Science Enthusiast, and a Blogger</h3>
 
