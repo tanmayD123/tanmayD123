@@ -23,6 +23,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Work by Carl Newport — Summary and Notes](https://medium.com/@tanmaydalal123/deep-work-by-carl-newport-summary-and-notes-eb7e6ed97aa2?source=rss-f693529b129c------2)
+- [Busting Myths and Tips to Start a Data Science Blog Right Now!](https://medium.com/@tanmaydalal123/busting-myths-and-tips-to-start-a-data-science-blog-right-now-d352866b84c6?source=rss-f693529b129c------2)
+- [What is it like to step in the hype of Data Science?](https://medium.com/@tanmaydalal123/what-is-it-like-to-step-in-the-hype-of-data-science-2032f6ba40c0?source=rss-f693529b129c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
