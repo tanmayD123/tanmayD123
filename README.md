@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **R**
 
-- 👨‍💻 All of my projects are available at [https://tanmayd123.github.io/](https://tanmayd123.github.io/)
+- 👨‍💻 All of my projects are available on [my Github](https://tanmayd123.github.io/)
 
 - 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **tanmaydalal123@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/tanmayD123/tanmayD123.github.io/blob/master/resume.pdf](https://github.com/tanmayD123/tanmayD123.github.io/blob/master/resume.pdf)
+- 📄 Know about my experiences from my [Resume](https://github.com/tanmayD123/tanmayD123.github.io/blob/master/resume.pdf)
 
 - ⚡ Fun fact **I love to play games. Here is my Valorant ID TonyStark #1010.**
 
